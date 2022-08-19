@@ -2,7 +2,7 @@
 
 ## Installation
 
-Either run the bash script as your user or manually copy the copy from the setup.sh file. 
+Either run the bash script as your user or manually copy the content from the setup.sh file. 
 If going for the manual approach remove the backslashes escaping the $.
 
 ## Credit
