@@ -28,7 +28,7 @@ Description=Low battery notification service
 [Service]
 Type=Simple
 ExecStart=/bin/bash %h/.config/bat0.sh
-Retart=always
+Restart=always
 RestartSec=30
 Environment="DISPLAY=:0" "XAUTHORITY=%h/.Xauthority
 
